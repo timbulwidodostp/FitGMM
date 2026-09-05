@@ -1,6 +1,8 @@
 # FitGMM
 Estimate Multivariate Normal Mixture Use FitGMM (MGMM) With (In) R Software
 
+https://www.youtube.com/watch?v=R9Vy3oj2Vc4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
